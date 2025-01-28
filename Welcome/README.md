@@ -3,7 +3,7 @@ Execution One
 ```console.log("Testing JS successful")```
 
 Outcome
-![alt text](image.png)
+![alt text](Screenshots/image.png)
 
 Execution Two
 ```
