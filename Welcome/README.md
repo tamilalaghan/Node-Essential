@@ -15,7 +15,7 @@ console.log(`${message}`)
 ```
 
 Outome
-![alt text](image-1.png)
+![alt text](Screenshots/image-1.png)
 
 Execution Three
 
@@ -27,4 +27,4 @@ fileName = path.basename(`${__filename}`);
 console.log(`The File Name is ${fileName} and filename with path is ${__filename}`); 
 ```
 Outcome
-![alt text](image-2.png)
+![alt text](Screenshots/image-2.png)
