@@ -1,12 +1,14 @@
 Execution One
 
-```console.log("Testing JS successful")```
+```js
+console.log("Testing JS successful")
+```
 
 Outcome
 ![alt text](image.png)
 
 Execution Two
-```
+```js
 //Execution Two
 let message = "Testing JS Variables"
 console.log(`${message}`) 
@@ -17,7 +19,7 @@ Outome
 
 Execution Three
 
-```
+```js
 //Execution Three
 
 const path = require(`node:path`);
