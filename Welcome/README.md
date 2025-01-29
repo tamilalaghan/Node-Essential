@@ -14,7 +14,7 @@ let message = "Testing JS Variables"
 console.log(`${message}`) 
 ```
 
-Outome
+Outcome
 ![alt text](Screenshots/image-1.png)
 
 Execution Three

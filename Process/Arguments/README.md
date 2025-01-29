@@ -3,7 +3,7 @@ Execution One
 //Execution One
 console.log(process.argv)
 ```
-Otcome
+Outcome
 ![alt text](Screenshots/image.png)
 
 Execution Two
