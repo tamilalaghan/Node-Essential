@@ -15,3 +15,11 @@ setInterval(tickingClock_msg, timeInterval);
 
 Outcome
 ![alt text](Screenshots/image.png)
+
+Execute Two
+```js
+
+```
+
+Outcome
+![alt text](Screenshots/image-1.png)
