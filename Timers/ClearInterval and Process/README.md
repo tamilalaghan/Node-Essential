@@ -15,4 +15,4 @@ setInterval(tickingClock,timeInterval);
 
 Outcome
 
-![alt text](Screenshots\image.png)
+![alt text](Screenshots/image.png)
