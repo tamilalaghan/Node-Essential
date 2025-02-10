@@ -10,4 +10,4 @@ setTimeout(waitmsg,waitTime);
 ```
 
 Outcome
-![alt text](Screenshots\image.png)
+![alt text](Screenshots/image.png)
