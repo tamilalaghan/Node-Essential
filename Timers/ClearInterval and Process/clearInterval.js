@@ -7,4 +7,6 @@ const tickingClock = () => {
     process.stdout.write(`Timer ... ${currentTime/1000}`);
 }
 
-setInterval(tickingClock,timeInterval);
+const intervalId = setInterval(tickingClock,timeInterval);
+const timer = timeInterval*50;
+setTimeout(()=>{ clearInterval(intervalId); console.log(`\nclock stopped.`)},timer)
